@@ -19,10 +19,10 @@ A versão mobile da aplicação trás a possibilidade de visualizar esses anúnc
 ## Screenshots Mobile
 
 <div align="center">
-    <img style="width: 250px"https://github.com/VedovatoHenrique/eSports/blob/master/img/mobile-project.jpeg">
-    <img style="width: 250px" src="ad-mobile-project.jpeg">
-    <img style="width: 250px" src="discord-mobile.jpeg">
-    <img style="width: 250px" src="ad-mobile-project-no-ads.jpeg">
+    <img style="width: 250px" src="https://github.com/VedovatoHenrique/eSports/blob/master/img/mobile-project.jpeg">
+    <img style="width: 250px" src="https://github.com/VedovatoHenrique/eSports/blob/master/img/ad-mobile-project.jpeg">
+    <img style="width: 250px" src="https://github.com/VedovatoHenrique/eSports/blob/master/img/discord-mobile.jpeg">
+    <img style="width: 250px" src="https://github.com/VedovatoHenrique/eSports/blob/master/img/ad-mobile-project-no-ads.jpeg">
 </div>
 
 ## Tecnologias utilizadas 💻
