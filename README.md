@@ -10,16 +10,16 @@ A versão mobile da aplicação trás a possibilidade de visualizar esses anúnc
 
 - Tela inicial da Web
 
-<img align="center" src="web-project.png">
+<img align="center" src="https://github.com/VedovatoHenrique/eSports/blob/master/img/web-project.png">
 
 - Tela de exemplo de criação dos anúncios
 
-<img align="center" src="ad-web-project.png">
+<img align="center" src="https://github.com/VedovatoHenrique/eSports/blob/master/img/ad-web-project.png">
 
 ## Screenshots Mobile
 
 <div align="center">
-    <img style="width: 250px" src="mobile-project.jpeg">
+    <img style="width: 250px"https://github.com/VedovatoHenrique/eSports/blob/master/img/mobile-project.jpeg">
     <img style="width: 250px" src="ad-mobile-project.jpeg">
     <img style="width: 250px" src="discord-mobile.jpeg">
     <img style="width: 250px" src="ad-mobile-project-no-ads.jpeg">
